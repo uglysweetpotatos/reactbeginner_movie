@@ -45,7 +45,7 @@ function Home() {
     return (
         <div>
             <div>
-                <h1 className="siteTitle">영화 리스트</h1>
+                <h1 className="siteTitle">영화 리스트test</h1>
                 <div className="eyse__div">
                     <div className="eyes"></div>
                 </div>
