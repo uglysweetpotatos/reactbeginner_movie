@@ -1,5 +1,5 @@
 import '../common/Common.css';
-function Comoon() {
+function Common() {
     return (
         <div className="loader__div">
             {/* 이미지 */}
@@ -9,4 +9,4 @@ function Comoon() {
     );
 }
 
-export default Comoon;
+export default Common;
