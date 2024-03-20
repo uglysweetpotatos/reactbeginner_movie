@@ -8,4 +8,4 @@
 4. json-server --watch ./src/db/ChattingOpens.json --port 3001
 
 
-[사이트](https://google.com, "google link")
+[사이트](https://uglysweetpotatos.github.io/reactbeginner_movie/")
