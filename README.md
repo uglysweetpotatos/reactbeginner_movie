@@ -16,3 +16,5 @@ https://dhgu-dev.medium.com/%EB%A7%A8%EB%95%85%EC%97%90%EC%84%9C-%EC%8B%9C%EC%9E
 곧 할것   
 https://www.youtube.com/watch?v=ZwFA3YMfkoc   
 https://ryuwc.tistory.com/233
+
+npx serve -s build : 빌드파일 서비스하기   
