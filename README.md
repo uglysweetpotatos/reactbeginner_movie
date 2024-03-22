@@ -17,6 +17,6 @@ https://dhgu-dev.medium.com/%EB%A7%A8%EB%95%85%EC%97%90%EC%84%9C-%EC%8B%9C%EC%9E
 https://www.youtube.com/watch?v=ZwFA3YMfkoc   
 https://ryuwc.tistory.com/233
 
-npx serve -s build : 빌드파일 서비스하기 
+npx serve -s build : 빌드파일 서비스하기   
    
 이거듣다가 말았음 https://www.youtube.com/watch?v=WT58gOl8Eh8&list=PLuHgQVnccGMCOGstdDZvH41x0Vtvwyxu7&index=4
