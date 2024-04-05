@@ -1,0 +1,114 @@
+{
+  "chattingRooms": [
+    {
+      "id": "ee0b",
+      "roomName": "어디 저장되는 거임? 신기하다"
+    },
+    {
+      "id": "c5c9",
+      "roomName": "여 저장됨"
+    },
+    {
+      "id": "3923",
+      "roomName": "나중에 db없을때 이리 하면될듯"
+    },
+    {
+      "id": "7051",
+      "roomName": "ㅅㄷㄴㅅ"
+    },
+    {
+      "id": "6f86",
+      "roomName": "하이 "
+    },
+    {
+      "id": "43e4",
+      "roomName": "와 신기하다"
+    },
+    {
+      "id": "8b9f",
+      "roomName": "오류발견"
+    },
+    {
+      "id": "d59a",
+      "roomName": "sdf"
+    }
+  ],
+  "chattingText": [
+    {
+      "id": "1",
+      "chattingRoom": 1,
+      "user": "ko",
+      "text": "요"
+    },
+    {
+      "id": "a400",
+      "chattingRoom": "ee0b",
+      "text": "ㄴㅇㄹ"
+    },
+    {
+      "id": "482b",
+      "chattingRoom": "ee0b",
+      "text": "ㄱ"
+    },
+    {
+      "id": "03a0",
+      "chattingRoom": "ee0b",
+      "text": "ㄱ"
+    },
+    {
+      "id": "83d0",
+      "chattingRoom": "ee0b",
+      "text": "ㄱ"
+    },
+    {
+      "id": "aa6c",
+      "chattingRoom": "ee0b",
+      "text": "ㄱ"
+    },
+    {
+      "id": "d81c",
+      "chattingRoom": "3923",
+      "text": "오"
+    },
+    {
+      "id": "32df",
+      "chattingRoom": "3923",
+      "text": "채팅쓰"
+    },
+    {
+      "id": "2132",
+      "chattingRoom": "8b9f",
+      "text": "와"
+    },
+    {
+      "id": "269b",
+      "chattingRoom": "ee0b",
+      "text": "dd"
+    },
+    {
+      "id": "0d87",
+      "chattingRoom": "ee0b",
+      "text": "d"
+    },
+    {
+      "id": "3c86",
+      "chattingRoom": "ee0b",
+      "text": "d"
+    },
+    {
+      "id": "e92f",
+      "chattingRoom": "ee0b",
+      "text": "sadf"
+    },
+    {
+      "id": "68d4",
+      "chattingRoom": "ee0b",
+      "text": "sdf"
+    },
+    {
+      "id": "2f98",
+      "chattingRoom": "ee0b",
+      "text": "sdfsd"
+    }
+  ]
+}

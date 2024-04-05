@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App';
-import Cleanup from './Cleanup';
-import ToDoes from './ToDoes';
-import CoinTracker from './CoinTracker';
+import App from './study/App';
+import Cleanup from './study/Cleanup';
+import ToDoes from './study/ToDoes';
+import CoinTracker from './study/CoinTracker';
 import MovieApp from './MovieApp';
 import './styles.css';
 
