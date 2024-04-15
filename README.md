@@ -24,4 +24,4 @@ npx serve -s build : 빌드파일 서비스하기
 이거듣다가 말았음 https://www.youtube.com/watch?v=WT58gOl8Eh8&list=PLuHgQVnccGMCOGstdDZvH41x0Vtvwyxu7&index=4   
 참고할 라이브러리(채팅 알림?) https://sonner.emilkowal.ski/   
 
-깃허브 Milestones / issues 개념
+깃허브 Milestones / issues 개념   
